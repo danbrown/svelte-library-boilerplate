@@ -1,6 +1,6 @@
 <script lang="ts">
-  import FeedbackList from "./components/FeedbackList.svelte";
-  import FeedbackStats from "./components/FeedbackStats.svelte";
+  import FeedbackList from "./FeedbackList.svelte";
+  import FeedbackStats from "./FeedbackStats.svelte";
 
   let feedbacks = [
     {
